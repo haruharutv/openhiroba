@@ -1,0 +1,6 @@
+remote_theme: fongandrew/hydeout
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - github-pages 
